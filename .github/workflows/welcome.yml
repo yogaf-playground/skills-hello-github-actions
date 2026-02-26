@@ -3,4 +3,4 @@ on:
     pull_request:
         types: [opened]
 permissions:
-    write-all
+    pull_requests: write-all
